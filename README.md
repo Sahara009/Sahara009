@@ -1,6 +1,6 @@
 # Привет! 👋 Я сахара!
 <div align="center">
-  <img height="200" src="https://tenor.com/bUrnX.gif"  />
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
